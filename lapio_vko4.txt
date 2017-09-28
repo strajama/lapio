@@ -12,4 +12,4 @@ private var laakso     = new Area ("laakso.", "Laakso on kaunis ja laakea. Tää
 private var luola      = new Area ("luola.", "Tulet pimeään luolaan, jota ei voi ylittää eikä alittaa.")
 private var kallio     = new Area ("kallio.", "Olet kalliolla kukkalalla ja sinun tekisi mieli rakentaa maja.")
 private val koti       = new Area ("koti.", "Olet kotona. Oma maa mansikka, muu maa mustikka.")
-
+Miten mä nyt tätä alan vielä muokkaamaan???
