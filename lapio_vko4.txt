@@ -1,3 +1,4 @@
+Terveisiä GitHubista
 private var suo        = new Area ("suo.", "Tunnet suopursun voimakkaan tuoksun sieraimissasi. Sinua yskittää.")
 private var metsä      = new Area ("metsä.", "Seisot tiheäkasvuisessa paikassa, jossa et näe metsää puilta.")
 private var aukio      = new Area ("aukio.", "Olet pienellä aukiolla. Melkein näkymättömät, pienet polut vievät eri suuntiin.")
